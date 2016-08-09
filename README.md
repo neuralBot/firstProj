@@ -1,3 +1,3 @@
 # firstProj
-Just test
+Just test\n
 test first project
